@@ -1,4 +1,4 @@
-const csv = require('../lib/index');
+const csv = require('../index');
 
 const arr = csv('./test.csv', ',').then((arr) => {
   console.log(arr);
