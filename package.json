@@ -1,6 +1,6 @@
 {
   "name": "csvto2darray",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to parse a CSV file to an 2D-Array",
   "main": "index.js",
   "directories": {
