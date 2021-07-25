@@ -1,0 +1,14 @@
+{
+  "name": "csvto2darray",
+  "version": "1.0.0",
+  "description": "A library to parse a CSV file to an 2D-Array",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caj Morgan",
+  "license": "MIT"
+}
